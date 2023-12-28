@@ -206,6 +206,8 @@ a {
 .btn_visit_container>a:hover,
 input[type="submit"]:hover,
 .btn_down:hover {
+  width: -1px;
+  height: -1px;
   background-color: #2b2b2b;
   border: 1px solid #fcaf17;
   color: #FAFAFA;
